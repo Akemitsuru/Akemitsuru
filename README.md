@@ -20,3 +20,6 @@ Here are some ideas to get you started:
 ### Aqui vai uma historinha para sua diversão... Baseado em fatos reais.
 ##
   <img align="center" alt="Akemi_comic" height="676" style="border-radius:50px;" src="https://media.discordapp.net/attachments/1085400112198586379/1091063536840626188/20180322_174506.jpg?width=901&height=676">
+
+##
+  <img align="center" alt="Akemi_comic" height="100" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/857754245595267087/1092956142633758812/Google.gif">
