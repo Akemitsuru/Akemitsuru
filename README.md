@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=akemitsuru&show_icons=true&theme=tokyonight)
 
 ##
-  <img align="center" alt="Akemi_comic" height="150" style="border-radius:500px;" src="https://media.discordapp.net/attachments/1085400112198586379/1091063536840626188/20180322_174506.jpg?width=901&height=676">
+  <img align="center" alt="Akemi_comic" height="676" style="border-radius:50px;" src="https://media.discordapp.net/attachments/1085400112198586379/1091063536840626188/20180322_174506.jpg?width=901&height=676">
