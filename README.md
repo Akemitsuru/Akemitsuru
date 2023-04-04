@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## ✨My name is ***Akemi***. Nice to meet ya!
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://discord.com/channels/1085400111355547678/1085400112198586379/1091063537452990614">
 ##
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=akemitsuru&show_icons=true&theme=tokyonight)
