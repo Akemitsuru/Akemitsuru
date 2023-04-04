@@ -1,4 +1,4 @@
-### Ohayou! 🎇^.^
+# **Ohayou Sekai!** 🎇^.^
 
 <!--
 
@@ -13,6 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-✨My name is Akemi. Nice to meet ya!
+## ✨My name is ***Akemi***. Nice to meet ya!
 ##
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=akemitsuru&show_icons=true&theme=tokyonight)
