@@ -1,5 +1,8 @@
-# **Ohayou Sekai!** (⁄ ⁄•⁄ω⁄•⁄ ⁄)っ🎉✨🎇
+![ME JOGA](https://user-images.githubusercontent.com/129322150/229947572-adac331d-03b1-4e8a-be4a-c5509a9d0812.gif)
 
+##
+# **Ohayou Sekai!** (⁄ ⁄•⁄ω⁄•⁄ ⁄)っ🎉✨🎇
+##
 <!--
 
 Here are some ideas to get you started:
