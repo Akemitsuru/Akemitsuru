@@ -1,7 +1,7 @@
   <img align="center" alt="Akemi_gif" height="100" src="https://github.com/Akemitsuru/Akemitsuru/blob/6bf989ea6cafac2b552480569bd68b19a478da23/ME%20JOGA.gif">
 
 ##
-# **Ohayou Sekai!** (⁄ ⁄•⁄ω⁄•⁄ ⁄)っ🎉✨🎇
+# **Ohayou Sekai!** (⁄ ⁄•⁄ω⁄•⁄ ⁄)っ🎉✨🎇  <img align="left" alt="Akemi_cat" height="150"  src="https://github.com/Akemitsuru/Akemitsuru/blob/21049b7f8f295470f406b9a1c3aef56e63e35383/Akemi_sketch_cat.png">
 ##
 <!--
 
