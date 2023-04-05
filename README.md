@@ -1,4 +1,4 @@
-![ME JOGA](https://user-images.githubusercontent.com/129322150/229947572-adac331d-03b1-4e8a-be4a-c5509a9d0812.gif)
+  <img align="center" alt="Akemi_gif" height="100" src="https://github.com/Akemitsuru/Akemitsuru/blob/main/ME%20JOGA.gif">
 
 ##
 # **Ohayou Sekai!** (⁄ ⁄•⁄ω⁄•⁄ ⁄)っ🎉✨🎇
