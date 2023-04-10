@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 ## ✨My name is ***Akemi***. Nice to meet ya!
 ##
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=akemitsuru&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akemitsuru&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Aqui vai uma historinha para sua diversão... Baseado em fatos reais.
 ##
